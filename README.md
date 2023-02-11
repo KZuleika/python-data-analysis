@@ -1,7 +1,7 @@
 # Análisis de datos con Python y GitHub Codespaces
 
 ## Contenido :rocket:
-- En la carpeta `Notebooks` encontrarás el cuarderno de Jupyter con el que trabajamos durante el taller. También encontrarás un segundo cuaderno con ejercicios para practicar.
+- En la carpeta `Notebooks` encontrarás el cuarderno de Jupyter con el que trabajamos durante el taller. También encontrarás un archivo que nos será útil en el desarrollo del ejercicio del taller.
 
 - El archivo PowerPoint `slides-codespaces` contiene información de GitHub Codespaces.
 
